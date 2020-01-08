@@ -1,3 +1,14 @@
+- [reslogit-example](#reslogit-example)
+  * [File description](#file-description)
+  * [Getting started](#getting-started)
+    + [Dataset](#dataset)
+    + [Discrete variable numbering values](#discrete-variable-numbering-values)
+    + [Prerequisites](#prerequisites)
+    + [Installation](#installation)
+  * [Versioning](#versioning)
+  * [Authors](#authors)
+  * [Licence](#licence)
+
 # reslogit-example
 
 This project shows an example of a reslogit model using a Theano backend DL library.
