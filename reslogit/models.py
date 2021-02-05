@@ -51,6 +51,8 @@ class ResNetLayer(object):
             borrow=True
         )
         self.W_2 = W_2
+        
+        # what is this
 
         W_mask_2 = np.asarray(1.-np.diag([1. for i in range(n_out)]), dtype=FLOATX)
 
